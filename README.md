@@ -1,2 +1,0 @@
-# SandboxesDOJO
-Created with CodeSandbox
